@@ -9,7 +9,7 @@ Microsoft Visual Studio 2019 (preferably the latest version), platform toolset v
 ### Cloning
 The very first step in order to compile VAC Bypass Loader is to clone this repo from GitHub to your local computer. Git is required to step futher, if not installed download it [here](https://git-scm.com). Open git bash / git cmd / cmd and enter following command:
 ```
-git clone https://github.com/danielkrupinski/VAC-Bypass-Loader.git
+git clone https://github.com/bllryy/VAC-Bypass-Loader-master.git
 ```
 `VAC-Bypass-Loader` folder should have been succesfully created, containing all the source files.
 
@@ -25,7 +25,4 @@ If everything went right you should receive `VAC-Bypass-Loader.exe` binary file.
 1. Close Steam client if running.
 1. Run `VAC-Bypass-Loader.exe` as Adminitrator. Steam will be opened automatically.
 
-## License
-> Copyright (c) 2019 Daniel Krupiński
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
