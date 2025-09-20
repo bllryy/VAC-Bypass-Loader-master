@@ -1,5 +1,5 @@
 # VAC Bypass Loader
-Loader for [VAC Bypass](https://github.com/danielkrupinski/VAC-Bypass) written in C.
+
 
 ## Getting started
 
